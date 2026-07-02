@@ -4,6 +4,7 @@ description: >
   Guide users through transcribing video/audio to SRT/VTT subtitles on Apple
   Silicon using MLX Whisper — model selection, language options, and output
   formatting.
+source_url: https://github.com/RayFernando1337/MLX-Auto-Subtitled-Video-Generator
 ---
 
 # MLX Video Subtitler
